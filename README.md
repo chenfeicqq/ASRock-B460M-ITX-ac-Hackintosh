@@ -125,7 +125,9 @@ self.z_path64 = os.path.join(os.environ['SYSTEMDRIVE'] + "\\", "Program Files", 
 | [Geekbench](https://www.geekbench.com/download/) | 性能测试 | 5.2.5 |
 | [Cinebench](https://www.maxon.net/en/cinebench) | 性能测试 | R20 |
 
-## 参考
+## 感谢
+
++ OpenCore 及相关制作工具、主题、测试工具
 
 + B站 司波图 视频教程
     - https://www.bilibili.com/video/BV1uf4y1X7MT
