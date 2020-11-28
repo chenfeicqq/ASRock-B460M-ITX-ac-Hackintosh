@@ -32,10 +32,10 @@
 | CPU  | i5 10400 散片 |
 | 内存 | 2666 16x2（金士顿） |
 | 主板 | 华擎 B460M ITX 702 |
-| 硬盘 |￼三星 500GB M.2 NVMe 970 EVO Plus |
+| 硬盘 | 三星 500GB M.2 NVMe 970 EVO Plus |
 | 显卡 | iGPU |
 | 显示器 | DELL U2718Q |
-| CPU风扇 |￼酷冷至尊 T520 |
+| CPU风扇 | 酷冷至尊 T520 |
 | 电源 | SFX 500W（全汉 MS500 无模组线） |
 | 机箱 | Formula X1（Ghost s1 六水复刻版） |
 | 无线网卡 | BCM94360CS2 |
