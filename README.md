@@ -66,12 +66,12 @@
 
 | 组件 | 说明 | 版本 |
 | ---- | ---- | ---- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 引导程序 | 0.6.3 |
-| [Lilu](https://github.com/acidanthera/Lilu) | 内核扩展 | 1.4.9-RELEASE |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 引导程序 | 0.6.4 |
+| [Lilu](https://github.com/acidanthera/Lilu) | 内核扩展 | 1.5.0-RELEASE |
 | [CPUFriend](https://github.com/acidanthera/CPUFriend) | 电源管理 | 1.2.2-RELEASE |
-| [VirtualSMC & SMCProcessor & SMCSuperIO](https://github.com/acidanthera/VirtualSMC) | SMC模拟器 | 1.1.8-RELEASE |
-| [WhateverGreen](https://github.com/acidanthera/WhateverGreen) | 显卡（GPU） | 1.4.4-RELEASE |
-| [AppleALC](https://github.com/acidanthera/AppleALC) | 声卡驱动 | 1.5.4-RELEASE |
+| [VirtualSMC & SMCProcessor & SMCSuperIO](https://github.com/acidanthera/VirtualSMC) | SMC模拟器 | 1.1.9-RELEASE |
+| [WhateverGreen](https://github.com/acidanthera/WhateverGreen) | 显卡（GPU） | 1.4.5-RELEASE |
+| [AppleALC](https://github.com/acidanthera/AppleALC) | 声卡驱动 | 1.5.5-RELEASE |
 | [IntelMausi](https://github.com/acidanthera/IntelMausi) | Intel网卡（LAN）驱动 | 1.0.4-RELEASE |
 | [NVMeFix](https://github.com/acidanthera/NVMeFix) | NVMe存储驱动 | 1.0.4-RELEASE |
 | [USBInjectAll](https://github.com/daliansky/OS-X-USB-Inject-All) | USB | 0.7.6-RELEASE |
@@ -102,7 +102,7 @@
 | [SSDTTime](https://github.com/corpnewt/SSDTTime) | SSDTs 制作 | master |
 | [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) | SMBIOS 制作 | master |
 | [ProperTree](https://github.com/corpnewt/ProperTree) | OpenCore 配置文件编辑工具 | master |
-| [Hackintool](https://github.com/headkaze/Hackintool/releases) | 黑苹果 & USB定制 | 3.4.7 |
+| [Hackintool](https://github.com/headkaze/Hackintool/releases) | 黑苹果 & USB定制 | 3.4.9 |
 
 **注1** 整体制作环境为 Windows；
 
