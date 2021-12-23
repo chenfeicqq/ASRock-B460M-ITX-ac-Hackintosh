@@ -67,17 +67,17 @@
 
 | 组件 | 说明 | 版本 |
 | ---- | ---- | ---- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 引导程序 | 0.7.2 |
-| [Lilu](https://github.com/acidanthera/Lilu) | 内核扩展 | 1.5.5-RELEASE |
-| [CPUFriend](https://github.com/acidanthera/CPUFriend) | 电源管理 | 1.2.4-RELEASE |
-| [VirtualSMC & SMCProcessor & SMCSuperIO](https://github.com/acidanthera/VirtualSMC) | SMC模拟器 | 1.2.6-RELEASE |
-| [WhateverGreen](https://github.com/acidanthera/WhateverGreen) | 显卡（GPU） | 1.5.2-RELEASE |
-| [AppleALC](https://github.com/acidanthera/AppleALC) | 声卡驱动 | 1.6.3-RELEASE |
-| [IntelMausi](https://github.com/acidanthera/IntelMausi) | Intel网卡（LAN）驱动 | 1.0.7-RELEASE |
-| [NVMeFix](https://github.com/acidanthera/NVMeFix) | NVMe存储驱动 | 1.0.9-RELEASE |
-| [USBInjectAll](https://github.com/daliansky/OS-X-USB-Inject-All) | USB | 0.7.7-RELEASE |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 引导程序 | 0.7.6 |
+| [Lilu](https://github.com/acidanthera/Lilu/releases) | 内核扩展 | 1.5.8-RELEASE |
+| [CPUFriend](https://github.com/acidanthera/CPUFriend/releases) | 电源管理 | 1.2.4-RELEASE |
+| [VirtualSMC & SMCProcessor & SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | SMC模拟器 | 1.2.8-RELEASE |
+| [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) | 显卡（GPU） | 1.5.5-RELEASE |
+| [AppleALC](https://github.com/acidanthera/AppleALC/releases) | 声卡驱动 | 1.6.7-RELEASE |
+| [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | Intel网卡（LAN）驱动 | 1.0.7-RELEASE |
+| [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | NVMe存储驱动 | 1.0.9-RELEASE |
+| [USBInjectAll](https://github.com/daliansky/OS-X-USB-Inject-All/releases) | USB | 0.7.7-RELEASE |
 | [XHCI-unsupported](https://github.com/daliansky/OS-X-USB-Inject-All) | USB | master |
-| [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases) | 显示器亮度控制 | 2.1.0 |
+| [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases) | 显示器亮度控制 | 4.0.2 |
 | USBPorts.kext | USB 定制 | - |
 
 ## 主题
