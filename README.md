@@ -67,14 +67,14 @@
 
 | 组件 | 说明 | 版本 |
 | ---- | ---- | ---- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 引导程序 | 0.7.6 |
-| [Lilu](https://github.com/acidanthera/Lilu/releases) | 内核扩展 | 1.5.8-RELEASE |
-| [CPUFriend](https://github.com/acidanthera/CPUFriend/releases) | 电源管理 | 1.2.4-RELEASE |
-| [VirtualSMC & SMCProcessor & SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | SMC模拟器 | 1.2.8-RELEASE |
-| [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) | 显卡（GPU） | 1.5.5-RELEASE |
-| [AppleALC](https://github.com/acidanthera/AppleALC/releases) | 声卡驱动 | 1.6.7-RELEASE |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases) | 引导程序 | 0.8.6 |
+| [Lilu](https://github.com/acidanthera/Lilu/releases) | 内核扩展 | 1.6.2-RELEASE |
+| [CPUFriend](https://github.com/acidanthera/CPUFriend/releases) | 电源管理 | 1.2.6-RELEASE |
+| [VirtualSMC & SMCProcessor & SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | SMC模拟器 | 1.3.0-RELEASE |
+| [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases) | 显卡（GPU） | 1.6.1-RELEASE |
+| [AppleALC](https://github.com/acidanthera/AppleALC/releases) | 声卡驱动 | 1.7.6-RELEASE |
 | [IntelMausi](https://github.com/acidanthera/IntelMausi/releases) | Intel网卡（LAN）驱动 | 1.0.7-RELEASE |
-| [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | NVMe存储驱动 | 1.0.9-RELEASE |
+| [NVMeFix](https://github.com/acidanthera/NVMeFix/releases) | NVMe存储驱动 | 1.1.0-RELEASE |
 | [USBInjectAll](https://github.com/daliansky/OS-X-USB-Inject-All/releases) | USB | 0.7.7-RELEASE |
 | [XHCI-unsupported](https://github.com/daliansky/OS-X-USB-Inject-All) | USB | master |
 | [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases) | 显示器亮度控制 | 4.0.2 |
@@ -122,6 +122,12 @@ self.z_path64 = os.path.join(os.environ['SYSTEMDRIVE'] + "\\", "Program Files", 
 | [VideoProc](https://www.videoproc.com/download-record-video/) | 视频硬解码测试 | 3.9 |
 | [Geekbench](https://www.geekbench.com/download/) | 性能测试 | 5.2.5 |
 | [Cinebench](https://www.maxon.net/en/cinebench) | 性能测试 | R20 |
+
+## 更新工具
+
+| 工具 | 说明 |
+| ---- | ---- |
+| [OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) | OpenCore 及 kext 升级 |
 
 ## 感谢
 
