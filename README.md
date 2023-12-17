@@ -1,6 +1,6 @@
-> **不要升级 MacOS 14，升级后无法驱动无线网卡。无线网卡、蓝牙失效，无法使用 隔空投送 等功能。**
-> OpenCore Legacy Patcher 仍存在较多问题
-> https://heipg.cn/tutorial/patch-brcm-wireless-card-macos-sonoma.html
+> **不要升级 MacOS 14，升级后无法驱动无线网卡。无线网卡、蓝牙失效，无法使用 隔空投送 等功能。**  
+> OpenCore Legacy Patcher 仍存在较多问题  
+> https://heipg.cn/tutorial/patch-brcm-wireless-card-macos-sonoma.html  
 > https://www.igeekbb.com/2023/09/Hackintoswifi.html
 
 ![](images/EFI.png)
