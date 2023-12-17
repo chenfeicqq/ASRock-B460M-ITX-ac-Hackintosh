@@ -1,3 +1,5 @@
+> **不要更新 MacOS 14，无线网卡、蓝牙失效，无法使用 隔空投送 等功能。**
+
 ![](images/EFI.png)
 
 ![](images/overview.png)
